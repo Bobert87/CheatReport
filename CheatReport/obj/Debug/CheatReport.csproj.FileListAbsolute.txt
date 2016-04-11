@@ -1,0 +1,6 @@
+c:\CheatReport\CheatReport\bin\Debug\CheatReport.exe.config
+c:\CheatReport\CheatReport\bin\Debug\CheatReport.exe
+c:\CheatReport\CheatReport\bin\Debug\CheatReport.pdb
+c:\CheatReport\CheatReport\obj\Debug\CheatReport.csprojResolveAssemblyReference.cache
+c:\CheatReport\CheatReport\obj\Debug\CheatReport.exe
+c:\CheatReport\CheatReport\obj\Debug\CheatReport.pdb
